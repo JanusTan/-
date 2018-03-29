@@ -1,6 +1,2 @@
-## segment-and-HuMoment<br>
-###programmer:Ryan Tan<br>
-###requirement of the homework:<br>
-####1.segment<br>
-####2.caculate the number of cell<br>
-####3.and compute the HuMoment
+##segment_findContour_Humoment
+###The code based on python 3 . This homework is to find the number of cells in the source picture ,and mask them in order.Then compute their Moment and HuMoment.
